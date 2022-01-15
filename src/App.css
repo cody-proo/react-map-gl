@@ -4,11 +4,6 @@
   box-sizing: border-box;
 }
 
-.navigation__control {
-  top: 10px;
-  left: 10px;
-}
-
 .reset__button {
   position: fixed;
   right: 20px;
